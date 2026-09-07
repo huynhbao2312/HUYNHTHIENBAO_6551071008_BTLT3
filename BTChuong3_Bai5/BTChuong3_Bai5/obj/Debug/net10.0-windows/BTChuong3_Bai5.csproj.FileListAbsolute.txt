@@ -1,0 +1,16 @@
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\bin\Debug\net10.0-windows\BTChuong3_Bai5.exe
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\bin\Debug\net10.0-windows\BTChuong3_Bai5.deps.json
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\bin\Debug\net10.0-windows\BTChuong3_Bai5.runtimeconfig.json
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\bin\Debug\net10.0-windows\BTChuong3_Bai5.dll
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\bin\Debug\net10.0-windows\BTChuong3_Bai5.pdb
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.Form1.resources
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.csproj.GenerateResource.cache
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.AssemblyInfoInputs.cache
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.AssemblyInfo.cs
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.csproj.CoreCompileInputs.cache
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.dll
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\refint\BTChuong3_Bai5.dll
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.pdb
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\BTChuong3_Bai5.genruntimeconfig.cache
+D:\CODEVisualStudio\BTChuong3_Bai5\BTChuong3_Bai5\obj\Debug\net10.0-windows\ref\BTChuong3_Bai5.dll
