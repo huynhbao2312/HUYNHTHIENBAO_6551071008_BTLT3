@@ -1,0 +1,16 @@
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\Design button và textbox 070926.exe
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\Design button và textbox 070926.deps.json
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\Design button và textbox 070926.runtimeconfig.json
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\Design button và textbox 070926.dll
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\Design button và textbox 070926.pdb
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.Form1.resources
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.csproj.GenerateResource.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.AssemblyInfoInputs.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.AssemblyInfo.cs
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.csproj.CoreCompileInputs.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.dll
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\refint\Design button và textbox 070926.dll
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.pdb
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\Design button và textbox 070926.genruntimeconfig.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\ref\Design button và textbox 070926.dll

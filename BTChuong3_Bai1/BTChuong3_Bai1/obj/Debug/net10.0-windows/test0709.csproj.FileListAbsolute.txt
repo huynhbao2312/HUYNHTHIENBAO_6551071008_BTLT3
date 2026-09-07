@@ -1,0 +1,16 @@
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.Form1.resources
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.csproj.GenerateResource.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.AssemblyInfoInputs.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.AssemblyInfo.cs
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.csproj.CoreCompileInputs.cache
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\test0709.exe
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\test0709.deps.json
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\test0709.runtimeconfig.json
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\test0709.dll
+D:\CODEVisualStudio\test0709\test0709\bin\Debug\net10.0-windows\test0709.pdb
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.dll
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\refint\test0709.dll
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.pdb
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\test0709.genruntimeconfig.cache
+D:\CODEVisualStudio\test0709\test0709\obj\Debug\net10.0-windows\ref\test0709.dll
